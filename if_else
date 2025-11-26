@@ -1,0 +1,13 @@
+package JAVA_PROBLEMS;
+
+public class if_else {
+    public static void main(String[] args) {
+        int age=30;
+        if(age>18){
+            System.out.println("He is eligible");
+        }
+        else {
+            System.out.println("He is not eligible");
+        }
+    }
+}
